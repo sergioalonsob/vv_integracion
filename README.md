@@ -1,7 +1,9 @@
 # Verificación y Validación del Software 2021
-GRUPO IWx-4x ``<- Modificar``
+GRUPO IWM-41 SERGIO ALONSO BENITO
 
-## Instrucciones para utilizar este proyecto
+--  COMANDOS MAVEN  ---
+
+mvn test --> para correr los tests
 
 * Cada alumno debe crearse un usuario de Github
 * Un miembro del grupo debe hacer fork a este proyecto y añadir al repositorio forkeado a sus compañeros de grupo y al profesor como colaboradores.
